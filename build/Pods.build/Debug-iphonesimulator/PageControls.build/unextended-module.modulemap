@@ -1,0 +1,10 @@
+framework module PageControls {
+  umbrella header "PageControls-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module PageControls.__Swift {
+    exclude header "PageControls-Swift.h"
+}

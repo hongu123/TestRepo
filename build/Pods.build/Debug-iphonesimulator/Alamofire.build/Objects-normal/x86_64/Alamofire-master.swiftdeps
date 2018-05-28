@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "2d2365a4dd5aafe1ce289b388e6237b7"
+build_time: [1527216572, 95490000]
+inputs:
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/AFError.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/Alamofire.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/MultipartFormData.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/Notifications.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/ParameterEncoding.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/Request.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/Response.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/ResponseSerialization.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/Result.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/SessionDelegate.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/SessionManager.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/TaskDelegate.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/Timeline.swift": [1527216568, 0]
+  "/Users/hiro/Desktop/SwiftPractic/Pods/Alamofire/Source/Validation.swift": [1527216568, 0]

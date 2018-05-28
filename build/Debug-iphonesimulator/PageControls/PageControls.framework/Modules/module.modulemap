@@ -1,0 +1,11 @@
+framework module PageControls {
+  umbrella header "PageControls-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module PageControls.Swift {
+    header "PageControls-Swift.h"
+    requires objc
+}

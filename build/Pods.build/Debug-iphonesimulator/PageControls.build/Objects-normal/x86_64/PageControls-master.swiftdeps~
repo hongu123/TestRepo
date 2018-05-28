@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "b46324ec1393d72e04dcd37bbe0a3471"
+build_time: [1524666767, 601099000]
+inputs:
+  "/Users/hiro/Desktop/SwiftPractic/Pods/PageControls/PageControls/Classes/FilledPageControl.swift": [1524666551, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "ff680abcdec0f0ac0a4d41417a50fce8"
+build_time: [1527166374, 776685000]
+inputs:
+  "/Users/hiro/Desktop/SwiftPractic/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1527166370, 0]

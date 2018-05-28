@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "60d0958c40db49ea7898352a3bf5f4f8"
+build_time: [1527477216, 513888000]
+inputs:
+  "/Users/hiro/Desktop/SwiftPractic/Pods/AlamofireObjectMapper/AlamofireObjectMapper/AlamofireObjectMapper.swift": [1527477180, 0]

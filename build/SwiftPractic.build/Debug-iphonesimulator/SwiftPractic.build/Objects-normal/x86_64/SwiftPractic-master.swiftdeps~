@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "c82633d2adc77ce329454bbd91e5f45c"
+build_time: [1527484551, 369096000]
+inputs:
+  "/Users/hiro/Desktop/SwiftPractic/SwiftPractic/Common.swift": [1523967405, 0]
+  "/Users/hiro/Desktop/SwiftPractic/SwiftPractic/podLibController.swift": !dirty [1527484540, 0]
+  "/Users/hiro/Desktop/SwiftPractic/SwiftPractic/AppDelegate.swift": [1527168415, 0]
